@@ -1,5 +1,7 @@
 # Auto_Crop_Image
 
+オリジナルのデータセットとラベルをもとにTensorFlowで学習したモデルを利用し
+DeepLab v3+を用いたセマンティックセグメンテーションを行うことで
 イチゴやパイナップルの実だけを抽出するアプリケーション
 
 # DEMO
@@ -17,7 +19,12 @@ $ pipenv install
 
 # Usage
 
-$ streamlit run segmentation.py
+$ streamlit run main.py
+
+# Future
+
+オリジナルのモデルを作成し、自動で切り抜ける画像の種類を増やすことができる
+例えば景色の画像から人や車、動物を切り抜くことも可能になる
 
 # Author
 
