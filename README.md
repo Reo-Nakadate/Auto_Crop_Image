@@ -4,7 +4,8 @@
 
 # DEMO
 
-![Top page](https://user-images.githubusercontent.com/74957723/208627271-6be60ad0-bf41-406b-af8c-8d1bd2fc71ed.png)
+<img width="1440" alt="top_page" src="https://user-images.githubusercontent.com/74957723/208628692-5cc67baa-4985-47d7-a2ef-678f2e1291b5.png">
+<img width="1440" alt="demo" src="https://user-images.githubusercontent.com/74957723/208628716-08803846-691c-4ebb-a299-d0e186718b82.png">
 
 # Requirement
 
