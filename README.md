@@ -4,6 +4,8 @@
 
 # DEMO
 
+![Top page](https://user-images.githubusercontent.com/74957723/208627271-6be60ad0-bf41-406b-af8c-8d1bd2fc71ed.png)
+
 # Requirement
 
 python 3.9
@@ -18,6 +20,6 @@ $ streamlit run segmentation.py
 
 # Author
 
-* 作成者 Reo Nakadate
-* 所属 Musashino University
-* E-mail s2022061@stu.musashino-u.ac.jp
+* 作成者:Reo Nakadate
+* 所属:Musashino University
+* E-mail:s2022061@stu.musashino-u.ac.jp
